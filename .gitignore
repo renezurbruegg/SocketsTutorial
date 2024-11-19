@@ -1,0 +1,11 @@
+build
+.vscode
+# Python
+__pycache__
+*.pyc
+# C++
+*.out
+*.o
+*.exe
+# Executables
+*.exe

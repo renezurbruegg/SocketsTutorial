@@ -14,7 +14,8 @@ This repository contains the following tutorials:
 To clone the repository, run the following command in the terminal:
 
 ```bash
-git clone this-repository-url
+git clone git@github.com:renezurbruegg/SocketsTutorial.git
+cd SocketsTutorial
 ```
 
 ### CPP
